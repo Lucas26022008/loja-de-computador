@@ -65,6 +65,11 @@ nav a:hover{
     text-decoration: underline;
 }
 
+#logpc{
+  width: auto;
+  height: 940px;
+}
+
 .produtos{
     width: 940px;
     margin: 0 auto;
